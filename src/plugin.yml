@@ -1,8 +1,0 @@
-name: Procurado
-main: br.com.abidux.procurado.Main
-version: 2.0
-author: abidux
-depend: [Vault]
-commands:
-  procurado:
-    aliases: [procurados]
